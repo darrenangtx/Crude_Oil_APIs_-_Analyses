@@ -13,6 +13,7 @@ API Keys and Paste Locations:
 As I am not able to share my personal API key, the user has to obtain the API key from the EIA website and from the FRED website:
 •	https://www.eia.gov/opendata/
   o	Tap “Register” under the API Section
+
 •	https://fred.stlouisfed.org/docs/api/api_key.html
   o	Create an account, and request for an API key
 
